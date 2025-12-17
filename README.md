@@ -38,12 +38,16 @@ src/
  │
  ├── pages/
  │     ├── Home.jsx
- │     ├── MenuList.jsx
- │     ├── MenuDetails.jsx
- │     ├── Saveurs.jsx
+ │     ├── prix_pieces_inferieur13.jsx
+ │     ├── MenusPrix.jsx
+ │     ├── MenuDetail.jsx
+ │     ├── MenusSaveurs.jsx
  │     ├── Avocat.jsx
- │     ├── California.jsx
- │     ├── CherPas.jsx
+ │     ├── california.jsx
+ │     ├── PrixMoins13.jsx
+ │     ├── saveurs.jsx
+ │     ├── prix.jsx
+ │     ├── avocatcoriandre.jsx
  │
  ├── data/
  │     ├── boxes.json
